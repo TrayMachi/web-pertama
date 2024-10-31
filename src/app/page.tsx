@@ -3,6 +3,7 @@ import { Card } from "@/components/Card";
 export default function Home() {
   return (
     <main className="flex gap-4 justify-center items-center min-h-screen">
+      <h1>TEST</h1>
       <Card
         title="Bukan Hitler"
         description="Ini bukan hitler yh jangan ngeyel"
